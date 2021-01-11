@@ -8,7 +8,7 @@ E-MTAB-5533 [https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5533/] - Iden
 E-MTAB-7447 [https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-7447/] - The osteocyte transcriptome during post-natal skeletal maturation in male and female mice
 
 ## scripts
-The scripts directory contains R code used to define the osteocyte transcriptome signature.
+The scripts directory contains R code used to caluclate gene activity information, gene expression enrichment in osteocytes and define the osteocyte transcriptome signature.
 
 ## analysis
 To run this analysis, first clone this repository git clone https://github.com/syouligan/osteocyte_signature.git.
