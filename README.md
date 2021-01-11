@@ -1,0 +1,2 @@
+# osteocyte_signature
+A code walk-through for the definition of genes actively expressed in the osteocyte transcriptome, gene expression enrichment in osteocytes and definition of the osteocyte transcriptome signature as described in the publication Osteocyte Transcriptome Mapping Identifies a Molecular Landscape Controlling Skeletal Homeostasis and Susceptibility to Skeletal Disease (https://www.biorxiv.org/content/10.1101/2020.04.20.051409v2).
